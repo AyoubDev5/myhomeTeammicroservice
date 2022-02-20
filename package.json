@@ -1,0 +1,21 @@
+{
+  "name": "myhometeamm",
+  "version": "1.0.0",
+  "description": "microservices with nodejs and docker with docker-compose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "docker"
+  ],
+  "author": "AyoubDev10",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "source-map-resolve": "^0.6.0"
+  }
+}
